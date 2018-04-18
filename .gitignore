@@ -1,0 +1,4 @@
+*.pyc
+x86_64
+results/
+*.npy
